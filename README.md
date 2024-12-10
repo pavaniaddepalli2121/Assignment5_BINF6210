@@ -5,7 +5,7 @@ Project Structure
 reference.fasta: The reference file containing the taxonomy information used for analysis.
 DL_sequences.fasta: FASTA file for sequences from the Distal Lumen.
 PM_sequences.fasta: FASTA file for sequences from the Proximal Mucosa.
-reference_db: The database used for BLAST searches.
+
 2. scripts/:
 analysis_script.R: Main R script containing the code for analyzing the 16S rRNA sequences from the human gut microbiome.
 functions.R: Supporting functions used in the main analysis script.
